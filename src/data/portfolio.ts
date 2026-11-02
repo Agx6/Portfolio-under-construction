@@ -7,21 +7,21 @@
 export type Palette = { from: string; via: string; to: string; accent: string };
 
 export const profile = {
-  fullName: 'Dasari Venkata Ratna Sri Sushmita',
-  displayName: 'Sushmita Dasari',
-  firstName: 'SUSHMITA',
+  fullName: 'Aritra Gupta',
+  displayName: 'Aritra Gupta',
+  firstName: 'ARITRA',
   seriesTag: 'THE SERIES',
   /** Fictional studio card shown at the very start of the opening sequence. */
-  originalLabel: 'A DASARI ORIGINAL',
-  role: 'Full-Stack Developer',
-  tagline: ['Full-Stack Developer', 'AI / ML', 'Java'],
+  originalLabel: 'AN AG ORIGINAL',
+  role: 'A developer & Creative',
+  tagline: ['Full-Stack Developer', 'AI / ML', 'Java, Canva, Figma, Da Vinci Resolve, Capcut'],
   intro:
-    'A B.Tech Artificial Intelligence & Machine Learning student (CGPA 9.10) and full-stack developer building AI-powered platforms, payment systems and multi-tenant SaaS with Java, Python, React, Node.js and Docker.',
-  location: 'Surampalem, Andhra Pradesh',
-  email: 'sushmitadasari17@gmail.com',
+    'A B.Tech Computer Science and Engineering (Data Science) student (Currently at CGPA 7.5) and full-stack developer building AI-powered platforms, payment systems and multi-tenant SaaS with Java, Python, React, Node.js and Docker.',
+  location: 'Kolkata, West Bengal',
+  email: 'guptaaritra11@gmail.com',
   links: {
-    linkedin: 'https://www.linkedin.com/in/sushmita-dasari-227a40284/',
-    github: 'https://github.com/Sushmitadasari',
+    linkedin: 'www.linkedin.com/in/aritragupta29',
+    github: 'https://github.com/Agx6',
   },
   resumePdf: '/assets/Sushmita_Dasari_Resume.pdf',
   portrait: {
@@ -34,11 +34,11 @@ export const profile = {
 
 export const education = [
   {
-    school: 'Aditya Engineering College',
-    place: 'Surampalem',
-    degree: 'Bachelor of Technology — Artificial Intelligence and Machine Learning',
-    period: 'October 2023 – Present',
-    score: 'CGPA 9.10',
+    school: 'Netaji Subhash Engineering College',
+    place: 'Kolkata',
+    degree: 'Bachelor of Technology — Computer Science and Engineering (Data Science',
+    period: 'September 2024 – Present',
+    score: 'CGPA 7.5',
   },
   {
     school: 'Sri Chaitanya Junior College',
